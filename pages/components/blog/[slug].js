@@ -9,7 +9,7 @@ const slugComponent = () => {
   useEffect(() => {
     if (!router.isReady) return;
     const { slug } = router.query;
-    fetch(`http://localhost:3000/api/getBlog?slug=${slug}`)
+    fetch(`https://next-blog-starter-one.vercel.app/api/getBlog?slug=${slug}`)
       .then((area) => {
         return area.json();
       })
