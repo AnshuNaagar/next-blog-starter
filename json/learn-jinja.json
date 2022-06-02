@@ -1,0 +1,7 @@
+{
+    "title":"What is jinja in python",
+    "author":"Anshu Naagar",
+    "slug":"learn-jinja",
+    "authorimage":"https://avatars.githubusercontent.com/u/83154441?v=4",
+    "content":"Jinja is a web template engine for the Python programming language. It was created by Armin Ronacher and is licensed under a BSD License. Jinja is similar to the Django template engine but provides Python-like expressions while ensuring that the templates are evaluated in a sandbox."
+}
